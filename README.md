@@ -44,6 +44,9 @@ RES는 판단 이전의 울림을 수용하고, 즉각 반응을 멈추며, 내�
 | ObserverSelf | 판단 결과 기록 및 리듬 평가 |
 
 ---
+## 📊 RES 시스템 구조도
+
+![RES 구조도](docs/RES_Structure_Diagram.png)
 
 ## 📜 라이선스
 
