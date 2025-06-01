@@ -48,7 +48,7 @@ RES는 판단 이전의 울림을 수용하고, 즉각 반응을 멈추며, 내�
 
 ![RES 구조도](docs/RES_Structure_Diagram.png)
 
-![RES 구조도](docs/RES_Structure_Diagram2.png)
+![RES 구조도2](RES_Structure_Diagram2/RES_Structure_Diagram2.png)
 
 ## 📜 라이선스
 
