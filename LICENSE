@@ -1,17 +1,44 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-© Yeo Gwan-Yeong, 2025
+© 2025 Yeo Gwan-Yeong
 
-You are free to:
-– Share — copy and redistribute the material in any medium or format
-– Adapt — remix, transform, and build upon the material
+This work includes the following protected elements as original creative expressions:
+
+1. Structural Elements:
+   - The 4-stage ethical flow: Receptivity → Suspension → Calibration → Ethical Rhythmicity
+   - The Layered Self Model: LowerSelf, MidSelf, HighSelf, ObserverSelf
+   - Time-looped ethical judgment cycle with rhythm memory (`rhythm_memory[]`)
+   - Ethical Maturity Index (EMI)
+
+2. Technical Descriptions:
+   - Input-processing-output mappings for each Self layer
+   - Feedback-based meta-judgment logic in ObserverSelf
+   - Rhythmic ethical loop design and memory feedback mechanisms
+
+3. Visual Representations:
+   - All system diagrams, layered architecture charts, and flow maps included in the documentation
+
+4. Software Implementations:
+   - Python class structures and functions: sense(), suspend(), calibrate(), rhythmize(), judge()
+   - Sample implementations of LayeredReceptiveSystem and all supporting modules
+   - Pattern-based judgment memory accumulation logic
+
+5. Literary Expression:
+   - All wording, structural descriptions, and paragraph formulations contained in the documents and source files
+
+---
+
+You may:
+
+✔ Share — copy and redistribute the material in any medium or format  
+✔ Adapt — remix, transform, and build upon the material  
 
 Under the following terms:
-– Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-– NonCommercial — You may not use the material for commercial purposes.
-– ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+📌 Attribution (BY) — You must give appropriate credit to Yeo Gwan-Yeong.  
+📌 NonCommercial (NC) — You may not use the material for commercial purposes.  
+📌 ShareAlike (SA) — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+📩 Contact: dygy4804@gmail.com
